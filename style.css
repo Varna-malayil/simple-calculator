@@ -1,0 +1,22 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+body {
+  width: 270px;
+  height: 300px;
+  border: 2px solid black;
+ 
+  margin-top: 60px;
+  justify-self: center;
+}
+
+#input {
+  width: 230px;
+  height: 50px;
+
+  margin: 0 auto;
+}
+
+
